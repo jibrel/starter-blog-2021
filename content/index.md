@@ -2,6 +2,6 @@
 title: Home
 ---
 
-# The Butler
+# Yazid
 
-> A ready to use static blog, powered by [Cecil](https://cecil.app).
+> a personal static website blog 
